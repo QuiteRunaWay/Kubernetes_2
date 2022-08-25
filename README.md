@@ -21,8 +21,11 @@
 2. В итоге развернуто Deployments и 3 реплики nginx:
 
 ![image](https://user-images.githubusercontent.com/92969676/186331852-d38b798a-95bc-4e26-a1ce-920d9aa48a76.png)
-
 ![image](https://user-images.githubusercontent.com/92969676/186331935-f45e9c65-2177-466d-b22f-31d42e8033db.png)
+
+3. Убедился, что пример с официального ресурса работает, далее чтобы было быстрее просто, нашел описание развертывания приложения hello world на nginx в Kubernetes (https://gist.github.com/sdenel/1bd2c8b5975393ababbcff9b57784e82) доработал файл yaml чтобы при создании у нас было сразу 2 реплики как по заданию. В итоге результат: 
+
+![image](https://user-images.githubusercontent.com/92969676/186579625-9bb91b52-3045-4a0d-af04-74a326b029d5.png)
 
 
 ## Задание 2: Просмотр логов для разработки
