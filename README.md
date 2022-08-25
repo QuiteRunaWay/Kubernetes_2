@@ -25,7 +25,23 @@
 
 3. Убедился, что пример с официального ресурса работает, далее чтобы было быстрее просто, нашел описание развертывания приложения hello world на nginx в Kubernetes (https://gist.github.com/sdenel/1bd2c8b5975393ababbcff9b57784e82) доработал файл yaml чтобы при создании у нас было сразу 2 реплики как по заданию. В итоге результат: 
 
+Запускаем прокси до нашего созданного ресурса:
 ![image](https://user-images.githubusercontent.com/92969676/186579625-9bb91b52-3045-4a0d-af04-74a326b029d5.png)
+
+Наше приложение было размещено в Namespace Default
+
+![image](https://user-images.githubusercontent.com/92969676/186581187-ddb78b0b-4e24-4951-b0e0-d4499f3ddb9f.png)
+
+На скриншоте у нас самые верхние поды - это то, что мы только что создали:
+
+![image](https://user-images.githubusercontent.com/92969676/186581300-b30c0451-cb2c-4520-b17e-48f77ee68b7d.png)
+
+
+![image](https://user-images.githubusercontent.com/92969676/186580985-cad96933-30c0-4025-9c94-b5d4bca1c73e.png)
+
+
+![image](https://user-images.githubusercontent.com/92969676/186580903-ab811517-2d71-47d8-ae11-7eea849d7409.png)
+
 
 
 ## Задание 2: Просмотр логов для разработки
