@@ -59,6 +59,18 @@
 
 сертификат для пользователя генерим по инструкции: https://kubernetes.io/docs/reference/access-authn-authz/certificate-signing-requests/ 
 
+Процесс создания пользователя с сертификатом: 
+
+![image](https://user-images.githubusercontent.com/92969676/186664301-a28b095a-84d4-4b55-9da9-ba37d1ebefbe.png)
+
+![image](https://user-images.githubusercontent.com/92969676/186664665-f2b4ecf0-dee2-4df6-a634-ceb3b063f7a8.png)
+
+В итоге получаем конфиг с прописанным пользователем (по умолчанию в инструкции был myuser, так его и оставил).
+
+![image](https://user-images.githubusercontent.com/92969676/186663926-26f4499c-8dc9-4ee3-8e91-77bb60c4c4c2.png)
+
+
+
 ## Задание 3: Изменение количества реплик 
 Поработав с приложением, вы получили запрос на увеличение количества реплик приложения для нагрузки. Необходимо изменить запущенный deployment, увеличив количество реплик до 5. Посмотрите статус запущенных подов после увеличения реплик. 
 
