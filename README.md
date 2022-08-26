@@ -42,6 +42,8 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/186580903-ab811517-2d71-47d8-ae11-7eea849d7409.png)
 
+![image](https://user-images.githubusercontent.com/92969676/186849710-798b72f2-d8df-48bc-9c09-a86b5245f286.png)
+
 
 
 ## Задание 2: Просмотр логов для разработки
