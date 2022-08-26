@@ -75,6 +75,13 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/186667928-b5086f42-e36f-4bc1-942c-3ba0eba8363b.png)
 
+В итоге уже под новым пользователем производим запрос информации по подам и по логам:
+
+![image](https://user-images.githubusercontent.com/92969676/186840859-b5d4a03e-d916-44de-8081-1305d94165ca.png)
+
+
+![image](https://user-images.githubusercontent.com/92969676/186841125-9cc6dfef-d93b-4c8d-ba22-609d8b6830b9.png)
+
 
 
 
